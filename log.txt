@@ -1,0 +1,5 @@
+Seu Nome de Usuário: 
+git config --global user.name "Seu Nome"
+Seu Email: 
+git config --global user.email "seu_email@exemplo.com"
+Exemplo: git config --global user.name "Fulano de Tal"
