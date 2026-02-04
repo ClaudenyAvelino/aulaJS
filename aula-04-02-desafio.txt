@@ -1,0 +1,24 @@
+Crie um programa em JavaScript que simule uma calculadora de troco.
+O programa deve:
+
+Exibir uma mensagem de boas-vindas no console.
+
+Armazenar o valor da compra e o valor pago pelo cliente em variáveis.
+
+Calcular o valor do troco, subtraindo o valor da compra do valor pago.
+
+Exibir no console:
+
+o valor da compra,
+
+o valor recebido,
+
+e o valor do troco a ser devolvido.
+
+Considere que:
+
+O valor da compra é R$ 27,50
+
+O valor pago é R$ 50,00
+
+*/
