@@ -1,0 +1,20 @@
+Mostrar e Esconder Seções do Portfólio
+
+O que demonstra: controle de visibilidade.
+
+Descrição:
+Botões que mostram ou escondem partes do site (ex: “Sobre mim”, “Projetos”, “Contato”).
+
+O aluno aprende:
+
+style.display
+
+interação com botões
+
+organização do conteúdo
+
+Exemplo:
+
+Clicou em “Projetos” → mostra os projetos
+
+Clicou em “Sobre mim” → esconde os outros

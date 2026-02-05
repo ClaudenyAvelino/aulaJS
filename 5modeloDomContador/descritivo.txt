@@ -1,0 +1,18 @@
+Contador de Cliques ou Curtidas
+
+O que demonstra: variáveis e atualização dinâmica.
+
+Descrição:
+Um botão tipo “ Curtir portfólio” que soma cliques.
+
+O aluno aprende:
+
+variáveis
+
+incremento (++)
+
+atualização de conteúdo em tempo real
+
+Exemplo:
+
+12 pessoas curtiram este portfólio

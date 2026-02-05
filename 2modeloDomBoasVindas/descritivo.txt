@@ -1,0 +1,18 @@
+Mensagem de Boas-vindas Personalizada
+
+O que demonstra: captura de dados e manipulação de texto.
+
+Descrição:
+Um campo para o usuário digitar o nome e, ao clicar em um botão, aparece uma mensagem personalizada.
+
+O aluno aprende:
+
+document.getElementById
+
+value
+
+innerHTML
+
+Exemplo:
+
+“Olá, Maria! Seja bem-vinda ao meu portfólio ”

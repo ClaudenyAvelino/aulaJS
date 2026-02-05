@@ -1,0 +1,20 @@
+Validação Simples de Formulário de Contato
+
+O que demonstra: lógica básica e condições.
+
+Descrição:
+No formulário de contato, verificar se os campos estão preenchidos antes de enviar.
+
+O aluno aprende:
+
+if / else
+
+validação básica
+
+alert() ou mensagens na tela
+
+Regras simples:
+
+Nome não pode estar vazio
+
+Email precisa ter @

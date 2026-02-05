@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    font-family: Arial, sans-serif;
+}
+
+.formulario-contato {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario-contato input,
+.formulario-contato textarea {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+#mensagem-sucesso {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+}

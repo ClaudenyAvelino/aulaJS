@@ -1,0 +1,22 @@
+Botão de Modo Escuro / Claro
+
+O que demonstra: manipulação do DOM e eventos.
+
+Descrição:
+Um botão que alterna o site entre modo claro e modo escuro.
+
+O aluno aprende:
+
+addEventListener
+
+classList.toggle
+
+interação direta com o layout
+
+Exemplo de ideia:
+
+Botão: “Modo escuro”
+
+Ao clicar, muda cores de fundo e texto
+
+Excelente para portfólio e muito usado no mercado.
